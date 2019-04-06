@@ -1,5 +1,5 @@
 /*Basic C to demonstrating callback, that is passing a function to a function
-to executing when you want */
+to control execution */
 #include <stdio.h>
 
 void A()
